@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "moments",
+		"path": "..\\..\\.."
+	},
+	{
+		"name": "mock-moment-images",
+		"path": "..\\..\\..\\..\\..\\..\\..\\Downloads\\curso_angular_yt-19_projeto_moments\\curso_angular_yt-19_projeto_moments\\moments\\mock-moment-images"
+	}
+],
+  "settings": {}
+}
